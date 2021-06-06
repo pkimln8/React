@@ -37,4 +37,6 @@ class App extends React.Component {
   }
 }
 
+// Handling user input
+
 ReactDOM.render(<App />, document.querySelector('#root'));
